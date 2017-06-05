@@ -37,4 +37,9 @@ public class Trie implements ITrie {
 		base.add(wildCard.concat(word));
 	}
 
+	@Override
+	public int getCount(String sq) {
+		return base.getCount(wildCard.concat(sq));
+	}
+
 }

@@ -113,12 +113,39 @@ public class TrieNode implements ITrieNode {
 			else
 			{
 				child = getChild(nextLetter);
+				 if (rest.length()==1 && child instanceof CompleteNode)
+				 {
+					 CompleteNode c = (CompleteNode)child;
+					 c.incrimentCount();
+				 }
 				
 			}
 			child.add(rest);
 			return false;
 		}
 
+	}
+
+	public int getCount(String sq) {
+		if (this instanceof CompleteNode && sq.length()==1)
+		{
+			return ((CompleteNode)this).getCount();
+		}
+		else
+		{
+			String rest = sq.substring(1);
+			char nextLetter = rest.charAt(0);
+			TrieNode child = null;
+			if (!this.hasChild(nextLetter))
+			{ 
+				return 0;
+			}
+			else
+			{
+				child = getChild(nextLetter);
+				return child.getCount(rest);
+			}
+		}
 	}
 
 //	@Override

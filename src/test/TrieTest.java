@@ -39,5 +39,24 @@ public class TrieTest {
 		assertTrue(sample.size()==2);
 		assertTrue(sample.contains("airsupply"));
 	}
+	
+	@Test
+	public void testDuplicateAdd()
+	{
+		Trie trie = new Trie();
+		trie.add("cheese");
+		trie.add("cheese");
+		Collection<String> sample = trie.getSugestions("cheese");
+	}
+	
+	@Test
+	public void testCount()
+	{
+		Trie trie = new Trie();
+		trie.add("cheese");
+		trie.add("cheese");
+		int sample = trie.getCount("cheese");
+		assertTrue(sample == 2);
+	}
 
 }

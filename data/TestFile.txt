@@ -1,0 +1,1000 @@
+AnonID	Query	QueryTime
+142	merit release appearance	2006-04-22 23:51:18
+217	lottery	2006-03-01 11:58:51
+217	lottery	2006-03-27 14:10:38
+217	vietnam	2006-05-22 17:43:42
+217	vietnam	2006-05-22 18:03:24
+1268	gall stones	2006-05-11 02:12:51
+1268	gallstones	2006-05-11 02:13:02
+1326	files	2006-03-01 17:36:08
+1326	pop up adds	2006-03-15 20:07:38
+1326	pop up adds	2006-03-15 20:08:29
+1326	the childs wonderland company	2006-03-21 11:50:10
+1326	the child's wonderland company	2006-03-21 11:59:03
+1326	the child's wonderland company	2006-03-21 12:00:55
+1326	the child's wonderland company grand rapids michigan	2006-03-21 12:01:24
+1326	budget truck rental	2006-03-24 18:27:07
+1326	holiday mansion houseboat	2006-03-29 17:14:01
+1326	back to the future	2006-04-01 17:59:28
+1326	holiday mansion houseboat	2006-04-06 20:20:43
+1326	the childs wonderland company	2006-04-11 17:25:27
+1326	jet blue airlines	2006-04-27 15:29:05
+1337	select business services	2006-03-14 15:51:41
+1337	select business services title	2006-03-14 15:52:10
+1337	cbc companies	2006-03-14 15:52:44
+1337	national real estate settlement services	2006-03-14 15:59:13
+1337	pennsylvania real estate settlement services	2006-03-14 16:04:40
+1337	pennsylvania real estate settlement services	2006-03-14 16:05:11
+1337	chesapeake appraisal and settlement services	2006-03-15 13:51:52
+1337	first american lenders advantage	2006-03-22 16:05:56
+1337	first american chesapeake	2006-03-22 16:11:31
+1337	first american chesapeake title services	2006-03-22 16:11:50
+1337	united one resources	2006-03-22 17:47:11
+1337	credit plus solutions group	2006-03-22 17:52:53
+1337	security search and abstract	2006-03-22 17:56:19
+1337	integrated real estate	2006-03-27 14:52:29
+1337	integrated loan services	2006-03-29 17:12:27
+1337	kentucky fried chicken	2006-04-25 16:07:14
+1337	ford	2006-04-26 09:22:34
+1410	target bowling green state university rug black orange rectangle	2006-04-13 17:41:26
+1410	google	2006-05-01 21:40:54
+2005	google	2006-03-24 21:25:10
+2005	weather	2006-05-08 01:27:49
+2178	zip codes	2006-03-02 04:49:45
+2178	dana reeves dies	2006-03-07 22:15:42
+2178	harry	2006-03-09 08:38:45
+2178	harry and david	2006-03-09 08:39:33
+2178	college savings plan	2006-03-16 09:40:04
+2178	pennsylvania college savings plan	2006-03-16 10:04:14
+2178	torn cornea treatment	2006-03-27 20:34:56
+2178	dog torn cornea treatment	2006-03-27 20:37:21
+2178	google	2006-03-27 20:58:44
+2178	people search	2006-04-05 19:56:57
+2178	bare minerals make up	2006-04-07 15:36:02
+2178	pergola	2006-04-08 18:44:00
+2178	pergola house entrance	2006-04-08 18:50:28
+2178	pergola	2006-04-08 18:52:55
+2178	google	2006-04-11 11:06:20
+2178	philadelphia rocky statue	2006-04-19 22:12:42
+2178	philadelphia art museum	2006-04-19 22:15:23
+2178	philadelphia independence mall	2006-04-19 22:18:19
+2178	lily pads breast	2006-04-29 14:52:29
+2178	once upon a child	2006-05-09 09:55:46
+2178	scott honda	2006-05-09 13:56:50
+2178	foods to avoid when pregnant	2006-05-09 19:32:42
+2178	foods to avoid when breast feeding	2006-05-09 19:36:44
+2178	infant innoculation safety	2006-05-09 19:41:32
+2178	hepatitis b vaccine safety infants	2006-05-09 19:43:37
+2178	sears	2006-05-12 12:44:22
+2178	target	2006-05-12 17:05:36
+2178	google	2006-05-16 10:54:39
+2178	fit pregnancy	2006-05-16 15:34:23
+2178	baby names	2006-05-20 15:02:38
+2178	mortgage calculator	2006-05-24 14:39:05
+2178	us zip codes	2006-05-25 21:26:47
+2178	inducing dog vomiting	2006-05-26 08:42:31
+2178	dog eats uncooked pasta	2006-05-26 15:31:56
+2178	inducing dog vomiting	2006-05-26 15:32:46
+2334	peru illinois cinema	2006-03-16 21:11:38
+2334	spring valley girls softball	2006-03-30 18:53:57
+2334	new mexico	2006-05-03 16:42:27
+2334	the tarantula hawk wasp	2006-05-12 16:32:30
+2334	peru illinois cinema	2006-05-25 19:25:45
+2334	peru illinois cinema	2006-05-25 19:26:50
+2334	peru illinois cinema	2006-05-25 19:27:08
+2334	peru illinois cinema schedule	2006-05-25 19:27:24
+2421	cliff notes	2006-03-06 16:25:56
+2421	the war of the worlds cliff notes	2006-03-06 16:26:27
+2421	poker	2006-03-14 21:44:15
+2421	google	2006-05-04 15:39:25
+2421	counterstrike	2006-05-04 16:01:08
+2421	counter strike	2006-05-04 16:01:12
+2421	google	2006-05-04 21:14:33
+2421	google	2006-05-05 16:16:01
+2421	hernias	2006-05-05 16:52:33
+2421	hernias	2006-05-05 16:54:16
+2421	hernia doctors	2006-05-05 17:03:15
+2421	people search	2006-05-05 20:10:51
+2421	spit ball with straw	2006-05-16 21:42:52
+2421	spitball with straw	2006-05-16 21:59:07
+2421	spit ball with straw	2006-05-16 21:59:31
+2722	charles drew	2006-03-01 17:35:12
+2722	national car rental	2006-03-09 11:24:29
+2722	military	2006-03-10 09:32:03
+2722	military rental benefits	2006-03-10 09:32:38
+2722	military car rental benefits	2006-03-10 09:33:37
+2722	sprint phones	2006-03-19 21:13:20
+2722	georgia state	2006-03-20 15:20:30
+2722	georgia perimeter	2006-03-20 15:27:22
+2722	routing number for bank of america military bank	2006-03-20 23:38:14
+2722	georgia state university	2006-03-20 23:43:22
+2722	georgia guardianship laws	2006-03-22 12:59:46
+2722	georgia guardianship laws conservator	2006-03-22 13:12:25
+2722	georgia veterans	2006-03-22 13:36:26
+2722	georgia state	2006-03-22 13:52:17
+2722	understanding fractions	2006-03-22 16:01:12
+2722	fractions	2006-03-22 16:12:19
+2722	linen n things	2006-03-23 11:58:35
+2722	bed bath beyond	2006-03-23 12:02:02
+2722	home depot	2006-03-23 12:11:05
+2722	wardrobe	2006-03-23 12:14:10
+2722	wardrobe storage	2006-03-23 12:14:36
+2722	target	2006-03-23 12:27:54
+2722	lost	2006-03-30 13:59:59
+2722	preteen birthday party	2006-04-05 00:10:08
+2722	preteen party	2006-04-05 00:22:23
+2722	science trek	2006-04-05 01:34:41
+2722	birthday party	2006-04-05 01:55:15
+2722	fandango	2006-04-05 18:49:54
+2722	baby shower ideas	2006-04-05 18:55:49
+2722	enterprise rent a car	2006-04-05 23:37:42
+2722	avis	2006-04-05 23:41:09
+2722	avis	2006-04-05 23:51:13
+2722	enterprise	2006-04-05 23:52:09
+2722	avis	2006-04-06 00:07:48
+2722	enterprise	2006-04-06 07:11:08
+2722	party city	2006-04-10 12:34:13
+2722	georgia force	2006-04-12 09:47:55
+2722	progressive	2006-04-12 12:16:29
+2722	patina	2006-04-12 12:18:16
+2722	ingles	2006-04-12 12:47:47
+2722	ingles grocery	2006-04-12 12:48:12
+2722	birthday cakes	2006-04-12 13:02:35
+2722	butterfly birthday cakes	2006-04-12 13:18:43
+2722	kids cake designs	2006-04-12 13:38:26
+2722	butterfly party	2006-04-12 13:39:34
+2722	tulle butterflies	2006-04-12 15:01:24
+2722	how to make tulle butterflies	2006-04-12 15:05:40
+2722	google	2006-04-12 15:18:12
+2722	party city	2006-04-12 15:28:56
+2722	shimmering butterfly	2006-04-12 15:41:01
+2722	shimmering butterfly party	2006-04-12 15:43:48
+2722	kudzu	2006-04-12 16:33:08
+2722	dairy queen	2006-04-12 16:40:57
+2722	virginia guardianship of a minor	2006-04-12 22:03:06
+2722	when is it necessary to be guardian of minors estate	2006-04-12 22:20:42
+2722	when is it necessary to be guardian of minors estate virginia	2006-04-12 22:21:35
+2722	babies r us	2006-04-13 21:08:52
+2722	target	2006-04-13 21:09:43
+2722	lowes	2006-04-17 21:25:44
+2722	door viewer	2006-04-17 21:41:04
+2722	peep hole	2006-04-17 21:44:02
+2722	peephole	2006-04-17 21:44:56
+2722	home depot	2006-04-17 21:49:21
+2722	sears	2006-04-17 22:04:45
+2722	target	2006-04-17 22:16:21
+2722	door viewer	2006-04-17 22:19:50
+2722	birthday cakes	2006-04-17 22:44:11
+2722	custom birthday cakes atlanta ga	2006-04-17 23:28:48
+2722	dolly madison	2006-04-17 23:30:36
+2722	custom cake	2006-04-17 23:32:30
+2722	custom cake georgia	2006-04-17 23:32:53
+2722	midas	2006-04-18 21:00:18
+2722	firestone	2006-04-18 21:06:04
+2722	purple foot baby shower	2006-04-18 21:30:22
+2722	baby shower purple foot	2006-04-18 21:33:31
+2722	baby shower purple	2006-04-18 21:36:33
+2722	party express	2006-04-18 21:41:43
+2722	sears	2006-04-20 14:08:23
+2722	build a bear	2006-04-25 12:47:50
+2722	yahoo	2006-04-25 13:03:23
+2722	aim	2006-04-26 15:39:25
+2722	atlanta christian academy	2006-04-26 22:56:53
+2722	crossroads christian academy	2006-04-26 23:16:45
+2722	atlanta christian academy	2006-04-26 23:19:03
+2722	georgia summer camp	2006-04-27 17:24:26
+2722	trust fun	2006-04-27 20:51:43
+2722	cingular	2006-04-29 14:00:47
+2722	columbus bank and trust routing number	2006-05-01 16:23:17
+2722	routing number for columbus bank and trust	2006-05-01 16:32:17
+2722	virginia taxes	2006-05-01 17:05:48
+2722	georgia state university	2006-05-01 17:07:30
+2722	georgia perimeter college	2006-05-01 17:27:45
+2722	george washington university	2006-05-01 18:43:59
+2722	oil change in atlanta georgia	2006-05-02 09:01:09
+2722	auto tune up clinic	2006-05-02 09:06:18
+2722	tune up clinic	2006-05-02 09:06:39
+2722	google	2006-05-02 09:09:19
+2722	virginia state taxes	2006-05-02 09:18:56
+2722	avis	2006-05-02 09:37:30
+2722	enterprise	2006-05-02 09:39:28
+2722	martha living	2006-05-02 10:29:12
+2722	yahoo	2006-05-02 15:10:35
+2722	target	2006-05-04 23:29:01
+2722	jewelry stores	2006-05-05 00:12:05
+2722	mom rings	2006-05-05 00:12:46
+2722	thats so raven	2006-05-05 00:58:28
+2722	poison control	2006-05-05 11:52:03
+2722	impetigo	2006-05-05 12:05:25
+2722	yahoo	2006-05-07 14:19:49
+2722	hallmark	2006-05-11 07:05:43
+2722	hallmark stores	2006-05-11 07:06:15
+2722	best buy	2006-05-11 14:24:11
+2722	cheese cake factory	2006-05-11 14:49:37
+2722	cheesecake factory	2006-05-11 14:49:43
+2722	apartments	2006-05-13 08:43:52
+2722	cheerleading in georgia	2006-05-14 22:27:44
+2722	cheerleading in atlanta georgia	2006-05-14 22:41:10
+2722	georgia force	2006-05-14 22:54:33
+2722	belly dancing	2006-05-15 00:41:17
+2722	belly dancing georgia	2006-05-15 00:41:53
+2722	better business	2006-05-15 01:09:46
+2722	death for marriage	2006-05-15 09:21:17
+2722	ups	2006-05-18 00:44:29
+2722	georgia b of investigation	2006-05-18 00:49:24
+2722	george washington university	2006-05-18 12:43:56
+2722	georgia perimeter college	2006-05-18 13:00:37
+2722	goodyear	2006-05-21 09:10:59
+2722	napa auto parts	2006-05-21 10:45:02
+2722	j c whitney	2006-05-21 10:54:21
+2722	shift knob pattern plate	2006-05-21 10:55:54
+2722	advance auto parts	2006-05-21 11:47:17
+2722	mailbox	2006-05-23 00:08:39
+2722	meadow creek football	2006-05-23 15:12:00
+2722	meadow creek youth football	2006-05-23 15:12:46
+2722	meadow creek youth football georgia	2006-05-23 15:13:16
+2722	tucker cheerleading	2006-05-23 15:59:53
+2722	cheerleading in tucker georgia	2006-05-23 16:02:01
+2722	cheer camp	2006-05-23 16:10:28
+2722	meadow creek georgia	2006-05-25 00:05:51
+2722	meadow creek georgia football	2006-05-25 00:06:24
+2722	georgia youth football meadow creek	2006-05-25 00:07:49
+2722	youth athletic associations	2006-05-25 00:14:20
+2722	meadow creek youth athletic associations	2006-05-25 00:14:45
+2722	georgia youth athletic associations	2006-05-25 00:16:42
+2722	georgia youth athletic associations	2006-05-25 00:21:07
+2722	meadow creek georgia	2006-05-25 00:29:40
+2722	lucky shoals park	2006-05-25 01:05:24
+2722	best friend park	2006-05-25 01:20:50
+2722	best friend park georgia	2006-05-25 01:21:41
+2722	lucky shoals park	2006-05-25 01:24:57
+2722	lucky shoals park youth	2006-05-25 01:25:14
+2722	greater atlanta christian school	2006-05-25 13:54:16
+2722	greater atlanta christian school	2006-05-25 14:02:44
+2722	youth track and field	2006-05-25 14:34:46
+2722	youth track and field georgia	2006-05-25 14:37:42
+2722	cheerleading summer camp in georgia	2006-05-25 15:12:11
+2722	gymnastics georgia	2006-05-25 15:27:38
+2722	google	2006-05-25 15:42:26
+2722	car rental	2006-05-25 15:54:36
+2722	ymca	2006-05-25 15:55:59
+2722	autosave car rental	2006-05-25 23:26:54
+2722	budget car rental	2006-05-25 23:29:53
+2722	alamo car rental	2006-05-25 23:56:13
+3302	university of wyoming	2006-03-01 23:26:22
+3302	tip tennis instructor	2006-03-09 11:26:17
+3302	okay to tip tennis instructor	2006-03-09 11:26:40
+3302	okay to give money tip to tennis instructor	2006-03-09 11:27:25
+3302	okay to give money to tennis instructor	2006-03-09 11:28:05
+3302	tipping	2006-03-09 11:28:39
+3302	best toys of the year	2006-03-16 01:28:43
+3302	discovery kids	2006-03-16 02:13:36
+3302	scale measures body fat and water	2006-03-16 11:26:50
+3302	cheerleader nation tv show	2006-03-18 22:44:57
+3302	lifetime cheerleader nation tv show	2006-03-18 22:47:29
+3302	silhouettes	2006-03-19 16:59:11
+3302	pogo	2006-03-22 01:14:30
+3302	uterine bleeding and coumadin	2006-03-23 11:23:35
+3302	children who have died from moms postpartum depression	2006-03-24 15:41:21
+3302	outback	2006-03-28 20:36:13
+3302	outback menu	2006-03-28 20:36:39
+3302	outback steakhouse new menu	2006-03-28 20:39:58
+3302	cause sensitivity to light	2006-03-28 22:41:43
+3302	statistics on number of children who died who had moms with postpartum depression psychosis	2006-03-30 17:09:02
+3302	statistics on infant death due to postpartum depression	2006-03-30 17:11:17
+3302	statistics on infanticide	2006-03-30 17:25:34
+3302	statistics on infanticide postpartum depression	2006-03-30 17:28:37
+3302	meaning of a cohort study	2006-04-03 18:23:30
+3302	prospective cohort study	2006-04-03 18:26:13
+3302	meaning of a case control study	2006-04-03 18:27:33
+3302	meaning of a longitudinal cohort	2006-04-03 18:30:31
+3302	anticholinergic	2006-04-03 18:41:11
+3302	parasympathetic nerve impulses	2006-04-03 18:45:54
+3302	hypertonicity	2006-04-03 18:52:30
+3302	dopamine	2006-04-04 07:46:41
+3302	cortisol	2006-04-04 07:51:04
+3302	medical dictionary	2006-04-04 07:59:01
+3302	pharmaceutical dictionaries	2006-04-04 08:03:08
+3302	medical dictionary	2006-04-04 08:04:09
+3302	lifetime tv	2006-04-04 10:24:14
+3302	cause of baby blues	2006-04-04 21:10:42
+3302	coupons amazon	2006-04-06 10:59:55
+3302	showcase cinemas	2006-04-07 02:48:51
+3302	social security disability	2006-04-08 02:20:30
+3302	youth challenge wyoming	2006-04-09 13:42:25
+3302	gifts for social workers	2006-04-11 19:56:04
+3302	gifts for nurses who teach breastfeeding	2006-04-11 20:37:07
+3302	gifts for nurses who teach breastfeeding	2006-04-11 20:40:11
+3302	board of public utilities cheyenne wyoming	2006-04-14 22:38:20
+3302	board public utilities cheyenne wyoming	2006-04-14 22:40:23
+3302	phonetic spelling	2006-04-21 01:45:07
+3302	red envelope	2006-04-24 01:31:44
+3302	bruising on my back coumadin level normal	2006-04-25 21:58:42
+3302	cordless curling iron	2006-04-26 13:00:35
+3302	cordless ceramic straightener	2006-04-26 13:06:57
+3302	cordless ceramic straightener	2006-04-26 13:08:50
+3302	cordless ceramic straightener	2006-04-26 13:16:45
+3302	small cordless curling iron	2006-04-26 13:17:11
+3302	disney cruise line castaway club	2006-04-29 01:10:10
+3302	blood clots while on coumadin	2006-05-07 23:39:51
+3302	phlebitis	2006-05-09 23:50:22
+3302	activity with phlebitis	2006-05-09 23:57:54
+3302	phlebitis tennis	2006-05-10 00:08:00
+3302	taco johns calories	2006-05-10 15:08:06
+3302	crock pot chicken	2006-05-10 15:41:08
+3302	graduation keepsake box	2006-05-11 15:09:26
+3302	phlebitis bruising	2006-05-12 01:06:06
+3302	early signs of kidney failure	2006-05-12 12:31:40
+3302	beethoven	2006-05-14 01:50:04
+3302	song lyrics forever in you forever in me	2006-05-14 13:41:08
+3302	crock pot recipes chicken	2006-05-15 13:59:58
+3302	red envelope	2006-05-15 19:36:37
+3302	disney world vacation packages	2006-05-23 17:43:42
+3302	disney world vacation packs	2006-05-23 17:44:41
+3302	disney world vacation packages	2006-05-23 17:44:57
+3302	disney world cheap vacations	2006-05-24 13:31:44
+3302	graduation images	2006-05-24 22:44:59
+3302	examples of acronyms	2006-05-25 01:18:25
+3302	acronym poems	2006-05-25 18:40:04
+3302	writing acronym poems	2006-05-25 18:41:09
+3302	dixie chicks songs about president bush	2006-05-26 02:04:26
+3302	disney world vacation packages	2006-05-27 02:14:20
+3302	disney world mickey's very merry christmas party	2006-05-27 02:40:14
+3302	disney world vacation packages	2006-05-27 02:42:26
+3302	disney world	2006-05-28 01:17:37
+3302	billy gene king movie	2006-05-28 16:17:10
+3302	billy gene king movie	2006-05-28 16:18:09
+3302	billy gene king movie tv time	2006-05-28 16:18:45
+3302	s australia	2006-05-30 02:01:25
+3302	australia	2006-05-30 02:02:09
+3745	match	2006-04-11 17:39:04
+3745	ma	2006-04-25 20:36:58
+3745	match	2006-04-25 20:37:17
+3745	pepper	2006-05-02 18:43:10
+3745	yahoo	2006-05-12 20:08:23
+3745	yahoo	2006-05-12 21:16:43
+3745	pepper	2006-05-15 00:51:37
+3769	jean pierre and jewelry	2006-03-04 14:29:22
+3769	diamond jewelry and jean pierre	2006-03-04 14:34:20
+3769	diamonds jean pierre	2006-03-04 14:48:41
+3769	diamonds by jean pierre	2006-03-04 14:52:51
+3769	true tone home gym	2006-03-20 17:57:57
+3769	mens shoes	2006-03-20 19:25:52
+3769	little rock real estate	2006-03-27 22:02:36
+3769	security	2006-04-12 17:19:23
+3769	arkansas secretary of state	2006-05-13 20:32:53
+3769	funeral homes	2006-05-22 10:59:00
+3782	hertz enterprise	2006-03-08 13:42:38
+3782	hertz	2006-03-09 13:46:48
+3782	cleveland municipal school district	2006-03-12 19:33:45
+3782	mohawks	2006-03-15 10:45:41
+3782	hairstyles	2006-03-15 11:00:50
+3782	mohawk	2006-03-16 23:23:30
+3782	black gay chatlines	2006-03-19 19:05:16
+3782	mohawk hairstyle	2006-03-20 12:56:38
+3782	african hairstyle	2006-03-20 13:04:38
+3782	tuxedo junction	2006-03-21 21:32:40
+3782	mohawk hairstyles	2006-04-05 15:47:00
+3782	kinky twist	2006-04-11 11:38:23
+3782	steve madden	2006-04-17 12:25:40
+3782	tuxedo	2006-04-19 21:48:39
+3782	braids	2006-04-20 01:41:05
+3782	mohawks	2006-04-20 17:46:45
+3782	mohawks	2006-04-20 17:50:58
+3782	mohawk hairstyle	2006-04-20 17:54:27
+3782	kinky twist	2006-04-23 14:32:34
+3839	syria history	2006-03-01 21:01:53
+3839	syria historical events	2006-03-01 21:02:56
+3839	boxed set of fruits basket	2006-03-12 18:17:57
+3839	california	2006-03-27 18:31:02
+3839	texas	2006-03-27 18:32:41
+3839	texas	2006-03-27 18:33:00
+3839	idaho	2006-03-27 18:33:41
+3839	nevada	2006-03-27 18:34:02
+3839	anime	2006-05-05 16:51:32
+3914	journals	2006-03-13 18:43:50
+4781	florida department of corrections	2006-03-01 11:21:24
+4781	wayne county michigan process server	2006-03-01 14:33:26
+4781	florida department of professional regulations	2006-03-01 15:56:41
+4781	wayne county michigan process server	2006-03-02 11:54:55
+4781	atlantic filters	2006-03-03 15:42:29
+4781	well driller	2006-03-03 15:43:41
+4781	citrus county courts	2006-03-03 18:45:46
+4781	florida corporations	2006-03-04 16:28:14
+4781	cowboy boots	2006-03-05 17:22:29
+4781	lee county courts	2006-03-06 10:18:04
+4781	bank atlantic	2006-03-06 13:35:05
+4781	body glove	2006-03-08 11:50:16
+4781	palm beach county building permits	2006-03-09 13:36:42
+4781	department of justice	2006-03-10 10:41:17
+4781	florida department of justice	2006-03-10 10:42:02
+4781	miami dade clerk of court	2006-03-10 11:53:15
+4781	department of justice	2006-03-10 12:05:15
+4781	florida department of corrections	2006-03-11 18:05:57
+4781	police radio	2006-03-11 18:16:48
+4781	display booths	2006-03-11 18:30:56
+4781	manikins	2006-03-11 18:37:41
+4781	pillow case dress	2006-03-11 18:39:58
+4781	michigan process server	2006-03-14 10:19:09
+4781	palm beach county trial lawyers	2006-03-14 16:34:40
+4781	gab robbins	2006-03-16 14:14:11
+4781	palm beach boat show	2006-03-24 17:00:23
+4781	florida marlins	2006-03-24 17:09:28
+4781	deal or no deal	2006-03-24 20:22:14
+4781	florida department of corrections	2006-03-25 09:16:07
+4781	garment rack	2006-03-25 22:25:50
+4781	florida department of corrections	2006-03-28 11:15:50
+4781	state abbreviations	2006-03-30 12:00:52
+4781	pro sports boats	2006-03-30 14:25:50
+4781	palm beach county voters coalition	2006-04-03 14:28:39
+4781	voters coalition	2006-04-03 14:29:22
+4781	fulton county georgia vital statistics	2006-04-03 14:30:47
+4781	independent community bank	2006-04-07 09:02:56
+4781	mortgage calculator	2006-04-09 13:23:00
+4781	loan payments	2006-04-12 15:18:17
+4781	palm beach county bar association	2006-04-12 16:33:53
+4781	florida department of corrections	2006-04-13 16:48:01
+4781	florida department of corrections	2006-04-14 11:27:08
+4781	boot world	2006-04-14 13:05:28
+4781	cowboy boots	2006-04-14 13:07:03
+4781	personal injury	2006-04-14 15:17:57
+4781	auto accident pictures	2006-04-14 15:23:40
+4781	auto accident pictures	2006-04-14 15:24:36
+4781	auto accident photographs	2006-04-14 15:25:05
+4781	divorce law	2006-04-14 17:51:19
+4781	family law	2006-04-14 17:57:46
+4781	personal injury law	2006-04-14 18:03:26
+4781	florida divorce laws	2006-04-15 09:52:24
+4781	palm beach county family connection	2006-04-17 11:06:39
+4781	palm beach county building and zoning	2006-04-17 13:14:37
+4781	florida criminal lawyer	2006-04-17 15:22:57
+4781	tiger woods	2006-04-17 15:50:28
+4781	tiger woods jupiter island	2006-04-17 15:50:46
+4781	blackberry	2006-04-18 11:41:22
+4781	jeanette fossas	2006-04-18 14:18:10
+4781	jeanette union ring	2006-04-18 14:18:46
+4781	unity band and jeanette	2006-04-18 14:19:22
+4781	unity ring and jeanette	2006-04-18 14:19:43
+4781	david lee edwards	2006-04-21 10:38:06
+4781	david lee edwards and lottery	2006-04-21 10:38:25
+4781	personal injury attorney	2006-04-23 19:30:55
+4781	auto accidents	2006-04-23 19:33:11
+4781	personal injury lawyer	2006-04-23 19:36:27
+4781	loan calculator	2006-04-24 06:20:14
+4781	loan calculator	2006-04-24 11:37:08
+4781	loan calculator	2006-04-24 14:27:01
+4781	mary sawyers house	2006-04-24 14:37:39
+4781	national historical society	2006-04-24 14:38:19
+4781	area codes	2006-04-24 18:42:08
+4781	area code look up	2006-04-24 18:42:44
+4781	loan calculator	2006-04-25 16:57:36
+4781	criminal lawyer	2006-04-27 08:41:53
+4781	generators	2006-04-27 12:03:41
+4781	mitty m generators	2006-04-27 12:04:09
+4781	generators	2006-04-27 12:08:14
+4781	master generator	2006-04-27 12:09:58
+4781	web site templates	2006-04-29 16:53:41
+4781	web sight templates	2006-04-29 17:04:24
+4781	website templates	2006-04-29 17:04:48
+4781	baby clothes	2006-04-29 17:11:01
+4781	jerry beer and judge	2006-04-29 17:23:09
+4781	pro kat boats	2006-04-30 10:24:13
+4781	florida lottery	2006-05-04 06:53:27
+4781	palm beach county elections	2006-05-06 07:28:48
+4781	palm beach county elections	2006-05-06 07:29:49
+4781	palm beach county post times	2006-05-06 07:33:22
+4781	unique boat	2006-05-07 12:03:48
+4781	unique boat sales	2006-05-07 12:04:09
+4781	pro kat boats	2006-05-07 12:04:55
+4781	unique marine	2006-05-07 12:07:11
+4781	pro kat boats	2006-05-08 08:35:06
+4781	palm beach county supervisor of elections	2006-05-08 16:21:31
+4781	triton boats	2006-05-08 17:08:33
+4781	palm beach post times	2006-05-09 07:09:00
+4781	code of judicial conduct	2006-05-09 09:36:44
+4781	florida code of judicial conduct	2006-05-09 09:37:08
+4781	west palm beach police department	2006-05-09 10:15:28
+4781	pro sports boats	2006-05-09 14:57:53
+4781	rinker material	2006-05-09 15:33:15
+4781	loan payments	2006-05-09 16:30:09
+4781	fishing charters	2006-05-09 16:33:27
+4781	florida fishing charters	2006-05-09 16:36:52
+4781	sailfish marina	2006-05-09 16:40:46
+4781	florida fishing charters	2006-05-09 16:42:44
+4781	fishing charters	2006-05-09 16:44:35
+4781	mortgage loans	2006-05-09 16:57:31
+4781	ocean financial	2006-05-09 20:20:23
+4781	palm beach county post times	2006-05-09 20:48:50
+4781	offshore financial	2006-05-10 08:42:11
+4781	loan calculator	2006-05-10 08:58:42
+4781	loan calculator	2006-05-10 14:33:28
+4781	lee county clerk of court	2006-05-10 17:42:08
+4781	offshore financial	2006-05-11 09:07:08
+4781	loan calculator	2006-05-11 12:56:37
+4781	tropical yacht sales	2006-05-12 13:49:23
+4781	florida airports	2006-05-12 15:35:10
+4781	enterprise rental	2006-05-12 15:38:41
+4781	georgia lottery	2006-05-14 07:52:38
+4781	boot stretcher	2006-05-15 07:00:11
+4781	trailer plugs	2006-05-15 17:15:15
+4781	truss builders	2006-05-16 06:57:12
+4781	florida truss builders	2006-05-16 06:57:53
+4781	playlands park	2006-05-16 17:05:53
+4781	butterfly lure	2006-05-16 20:35:33
+4781	west marine	2006-05-18 10:31:27
+4781	magic tilt trailer	2006-05-18 15:44:34
+4781	pro sports boats	2006-05-22 12:52:56
+4781	marine speakers	2006-05-22 21:56:37
+4781	marine speakers	2006-05-22 22:03:00
+4781	marine speakers	2006-05-22 22:07:19
+4781	rainer	2006-05-23 11:48:56
+4781	west palm beach police department	2006-05-23 14:02:47
+4781	florida department of revenue	2006-05-23 15:33:26
+4781	line x bed liner	2006-05-23 16:17:40
+4781	star rods	2006-05-23 16:44:38
+4781	tucker real estate	2006-05-24 09:00:00
+4781	tucker real estate and florida	2006-05-24 09:00:20
+4781	tucker group real estate and florida	2006-05-24 09:00:58
+4781	bobby tucker	2006-05-24 09:02:00
+4781	royal wall systems	2006-05-25 13:30:51
+4781	marine speakers	2006-05-25 16:20:28
+4781	florida boat registration	2006-05-28 08:57:09
+4781	marine audio	2006-05-30 17:14:04
+4781	fathers day	2006-05-31 13:25:19
+4781	royal professional builders	2006-05-31 16:35:00
+5818	patrick kennedy	2006-05-05 14:04:16
+5818	bikini murder	2006-05-31 06:47:21
+6356	cam	2006-04-20 09:16:11
+6497	aircraft carrier	2006-03-01 23:57:34
+6497	aircraft carrier	2006-03-01 23:59:45
+6497	tibet	2006-03-01 23:59:57
+6497	tibet	2006-03-02 00:00:05
+6497	battleships us	2006-03-02 00:25:49
+6497	battleships us	2006-03-02 00:26:05
+6497	battleships us	2006-03-02 00:29:04
+6497	battleships us navy	2006-03-02 00:37:07
+6497	malaya	2006-03-02 01:06:01
+6497	malaya	2006-03-02 01:08:56
+6497	malaya	2006-03-02 01:10:13
+6497	malaya	2006-03-02 01:12:10
+6497	malaya	2006-03-02 01:20:02
+6497	netherlands east indies	2006-03-02 01:20:58
+6497	netherlands east indies	2006-03-02 01:21:13
+6497	netherlands east indies map	2006-03-02 01:21:34
+6497	netherlands east indies map	2006-03-02 01:22:04
+6497	netherlands east indies map	2006-03-02 01:23:02
+6497	burma road map	2006-03-02 01:37:16
+6497	burma road map	2006-03-02 01:41:27
+6497	burma road	2006-03-02 01:43:14
+6497	burma road map	2006-03-02 01:50:23
+6497	burma road map	2006-03-02 01:51:35
+6497	burma road map	2006-03-02 01:53:14
+6497	burma road map	2006-03-02 02:02:15
+6497	burma road map	2006-03-02 02:03:03
+6497	battleships us navy	2006-03-02 02:38:52
+6497	battleships us navy keel	2006-03-02 02:39:01
+6497	battleships us keel	2006-03-02 02:39:10
+6497	battleships keel	2006-03-02 02:39:31
+6497	battleships keel	2006-03-02 04:17:45
+6497	big fat	2006-03-05 17:11:33
+6497	big fat liar bines	2006-03-05 17:20:59
+6497	big fat liar bines speedo	2006-03-05 17:23:51
+6497	big fat liar bines	2006-03-05 17:23:57
+6497	big fat liar speedo	2006-03-05 17:24:07
+6497	big fat liar trailer	2006-03-05 17:26:28
+6497	prejudice propaganda bandwagon stereotype	2006-03-05 18:04:24
+6497	db	2006-03-05 19:05:20
+6497	death camp	2006-03-05 19:31:15
+6497	silver	2006-03-05 19:35:33
+6497	silver pellet	2006-03-05 19:36:17
+6497	silver	2006-03-05 19:41:15
+6497	death camp	2006-03-05 22:15:06
+6497	silver pellet	2006-03-07 02:07:09
+6497	silver element	2006-03-07 02:07:20
+6497	silver element chemical periodic	2006-03-07 02:07:32
+6497	silver element chemical	2006-03-07 02:07:40
+6497	silver pure metal	2006-03-07 02:07:58
+6497	silver pure metal pellet	2006-03-07 02:08:08
+6497	silver pure metal piece	2006-03-07 02:08:17
+6497	silver pure metal periodic	2006-03-07 02:08:34
+6497	silver pure metal element	2006-03-07 02:08:40
+6497	silver metal element	2006-03-07 02:09:00
+6497	periodic table element poster	2006-03-07 02:09:32
+6497	periodic table element poster	2006-03-07 02:10:10
+6497	periodic table visual poster	2006-03-07 02:11:05
+6497	the pianist	2006-03-09 23:36:10
+6497	chemical composition of ball point pens	2006-03-14 02:43:08
+6497	chemical composition of ballpoints	2006-03-14 02:57:13
+6497	composition of ballpoints	2006-03-14 02:57:41
+6497	composition of ballpoints iridium	2006-03-14 02:58:12
+6497	ballpoints iridium	2006-03-14 02:59:22
+6497	atomic bomb	2006-03-14 03:33:13
+6497	bomb	2006-03-14 03:33:20
+6497	atomic bomb	2006-03-14 03:33:34
+6497	atomic bomb	2006-03-14 03:34:17
+6497	atomic bomb	2006-03-14 03:37:45
+6497	atomic bomb	2006-03-14 03:38:28
+6497	atomic bomb	2006-03-14 03:39:12
+6497	atomic bomb	2006-03-14 03:40:05
+6497	atomic bomb	2006-03-14 03:41:00
+6497	atomic bomb	2006-03-14 03:42:15
+6497	atomic bomb	2006-03-14 03:43:09
+6497	atomic bomb	2006-03-14 03:46:52
+6497	atomic bomb	2006-03-14 03:47:03
+6497	atomic bomb	2006-03-14 03:49:02
+6497	atomic bomb cloud	2006-03-14 03:49:18
+6497	atomic bomb cloud	2006-03-14 03:50:01
+6497	atomic bomb cloud	2006-03-14 03:51:00
+6497	atomic bomb cloud	2006-03-14 03:52:03
+6497	atomic bomb cloud	2006-03-14 03:53:21
+6497	speedo diver	2006-03-14 03:54:10
+6497	speedo diver	2006-03-14 03:55:03
+6497	speedo diver	2006-03-14 04:08:29
+6497	speedo diver	2006-03-14 04:10:02
+6497	speedo diver	2006-03-14 04:11:18
+6497	speedo diver	2006-03-14 04:12:09
+6497	speedo diver	2006-03-14 04:13:04
+6497	speedo diver	2006-03-14 04:14:37
+6497	speedo diver	2006-03-14 04:15:21
+6497	speedo diver	2006-03-14 04:16:03
+6497	speedo men	2006-03-14 04:16:14
+6497	speedo men	2006-03-14 04:17:17
+6497	speedo men	2006-03-14 04:18:32
+6497	speedo men	2006-03-14 04:19:06
+6497	speedo men	2006-03-14 04:20:05
+6497	speedo men	2006-03-14 04:21:57
+6497	speedo men	2006-03-14 04:22:07
+6497	speedo water polo	2006-03-14 04:22:32
+6497	speedo water polo	2006-03-14 04:23:41
+6497	speedo water polo	2006-03-14 04:30:34
+6497	speedo water polo	2006-03-14 04:31:03
+6497	speedo water polo	2006-03-14 04:32:10
+6497	wax	2006-03-14 04:33:14
+6497	speedo men	2006-03-14 04:34:46
+6497	speedo men	2006-03-14 04:35:55
+6497	speedo men	2006-03-14 04:36:04
+6497	speedo men	2006-03-14 04:37:01
+6497	speedo diver	2006-03-14 04:37:36
+6497	speedo diver	2006-03-14 04:38:02
+6497	speedo water polo	2006-03-14 04:38:25
+6497	speedo water polo	2006-03-14 04:39:00
+6497	speedo diver	2006-03-14 04:39:29
+6497	speedo water polo	2006-03-14 04:39:43
+6497	speedo men	2006-03-14 04:39:52
+6497	speedo men	2006-03-14 04:40:01
+6497	death camp	2006-03-14 04:58:47
+6497	speedo men	2006-03-19 01:40:41
+6497	speedo men	2006-03-19 01:41:07
+6497	speedo men	2006-03-19 01:42:03
+6497	speedo men	2006-03-19 01:43:07
+6497	solid gold mobile	2006-03-19 01:45:28
+6497	speedo men	2006-03-19 01:46:25
+6497	speedily	2006-03-19 01:49:12
+6497	smart	2006-03-19 01:50:24
+6497	speedo men bikini	2006-03-19 01:50:57
+6497	speedo men	2006-03-19 01:51:11
+6497	speedo men	2006-03-19 01:52:30
+6497	speedo men	2006-03-19 01:53:04
+6497	speedo men	2006-03-19 01:58:51
+6497	speedo men	2006-03-19 01:59:01
+6497	speedo men	2006-03-19 02:00:01
+6497	men brief	2006-03-19 02:00:54
+6497	men brief	2006-03-19 02:01:04
+6497	men brief	2006-03-19 02:02:09
+6497	men brief	2006-03-19 02:03:06
+6497	men brief	2006-03-19 02:04:09
+6497	speedo stud	2006-03-19 03:13:40
+6497	speedo brief	2006-03-19 03:13:59
+6497	speedo diver	2006-03-19 03:14:13
+6497	speedo olympics	2006-03-19 03:14:38
+6497	speedo olympics	2006-03-19 03:15:04
+6497	speedo olympics	2006-03-19 03:21:47
+6497	radium metal	2006-03-19 17:04:33
+6497	environmentalist companies	2006-03-19 17:05:13
+6497	men speedo	2006-03-19 18:52:50
+6497	men speedo	2006-03-19 18:53:23
+6497	men speedo	2006-03-19 19:37:02
+6497	men speedo	2006-03-19 19:40:59
+6497	men speedo	2006-03-19 19:41:18
+6497	radium metal	2006-03-19 19:48:12
+6497	radium metal	2006-03-19 19:52:04
+6497	radium metal	2006-03-19 19:53:04
+6497	radium metal	2006-03-19 20:09:37
+6497	radium metal	2006-03-19 20:11:52
+6497	radium metal	2006-03-19 20:12:10
+6497	radium metal	2006-03-19 20:13:04
+6497	radium metal	2006-03-19 20:14:59
+6497	men speedo	2006-03-19 20:26:29
+6497	men speedo	2006-03-19 20:27:14
+6497	men speedo	2006-03-20 00:16:15
+6497	men speedo	2006-03-20 00:17:10
+6497	men speedo	2006-03-20 00:19:08
+6497	men speedo	2006-03-20 00:26:53
+6497	men speedo	2006-03-20 00:27:06
+6497	men speedo	2006-03-20 01:04:15
+6497	men speedo	2006-03-20 01:05:54
+6497	men speedo	2006-03-20 01:06:10
+6497	men speedo	2006-03-20 01:07:07
+6497	men speedo	2006-03-20 01:09:53
+6497	men speedo	2006-03-20 01:10:20
+6497	men speedo	2006-03-20 01:11:13
+6497	men speedo	2006-03-20 01:12:08
+6497	men speedo	2006-03-20 01:13:38
+6497	men speedo	2006-03-20 01:37:01
+6497	men speedo	2006-03-20 01:41:00
+6497	men speedo	2006-03-20 01:43:49
+6497	men speedo	2006-03-20 01:44:10
+6497	men speedo	2006-03-20 01:53:58
+6497	men speedo	2006-03-20 01:54:40
+6497	men speedo	2006-03-20 02:50:51
+6497	men speedo	2006-03-20 02:51:07
+6497	men speedo	2006-03-20 02:52:03
+6497	tibet	2006-03-28 00:11:55
+6497	tibet	2006-03-28 00:12:09
+6497	corregidor	2006-03-28 02:47:26
+6497	holocaust	2006-03-29 00:34:07
+6497	camps	2006-03-29 00:34:21
+6497	periodic table	2006-03-29 00:54:03
+6497	periodic table	2006-03-29 00:55:11
+6497	periodic table	2006-03-29 00:56:01
+6497	periodic table	2006-03-29 01:04:40
+6497	periodic table	2006-03-29 01:07:54
+6497	periodic table	2006-03-29 02:19:17
+6497	periodic table	2006-03-29 02:20:48
+6497	power rangers	2006-04-02 20:00:46
+6497	power rangers goo	2006-04-02 20:01:11
+6497	nappa	2006-04-02 20:02:01
+6497	nappa	2006-04-02 20:03:04
+6497	nappa z	2006-04-02 20:03:17
+6497	nappa z	2006-04-02 20:04:02
+6497	nappa z	2006-04-02 20:05:01
+6497	nappa z	2006-04-02 20:06:18
+6497	nappa z	2006-04-02 20:07:01
+6497	king cold z	2006-04-02 20:07:33
+6497	king cold z	2006-04-02 20:08:13
+6497	king cold	2006-04-02 20:08:34
+6497	king cold	2006-04-02 20:10:36
+6497	king cold dragon	2006-04-02 20:14:56
+6497	king cold dragon	2006-04-02 20:15:14
+6497	ball z dragon	2006-04-02 20:16:51
+6497	lifeguard speedo	2006-04-04 02:36:51
+6497	lifeguard speedo	2006-04-04 02:37:15
+6497	lifeguard in speedo	2006-04-04 02:38:01
+6497	lifeguard men in speedo	2006-04-04 02:39:11
+6497	lifeguard men speedo	2006-04-04 02:39:21
+6497	lifeguard men	2006-04-04 02:39:31
+6497	lifeguard men	2006-04-04 02:43:00
+6497	lifeguard men	2006-04-04 02:48:13
+6497	lifeguard men	2006-04-04 02:54:31
+6497	lifeguard men	2006-04-04 03:29:45
+6497	where is the love black eyed peas	2006-04-04 05:36:52
+6497	radium metal	2006-04-04 06:23:02
+6497	radium metal	2006-04-04 06:24:01
+6497	radium metal	2006-04-04 06:26:25
+6497	radium metal	2006-04-04 06:27:01
+6497	world war ii death tolls	2006-04-06 02:30:13
+6497	world war i death tolls	2006-04-06 03:15:38
+6497	world war first death tolls	2006-04-06 03:16:47
+6497	spice	2006-04-06 03:37:47
+6497	spice boys z	2006-04-06 03:38:18
+6497	spice boys garlic	2006-04-06 03:39:16
+6497	spice boys dragon	2006-04-06 03:40:03
+6497	spice boys ball	2006-04-06 03:40:26
+6497	nappa	2006-04-06 03:40:39
+6497	nappa dragon	2006-04-06 03:49:29
+6497	nappa dragon	2006-04-06 03:50:02
+6497	nappa dragon	2006-04-06 03:51:01
+6497	king cold dragon	2006-04-06 03:51:15
+6497	undertaker	2006-04-06 03:56:25
+6497	undertaker	2006-04-06 04:00:02
+6497	money money money	2006-04-06 22:10:30
+6497	money money money song	2006-04-06 22:10:40
+6497	mama mia song	2006-04-06 22:11:03
+6497	funky town song	2006-04-06 22:11:22
+6497	abba band	2006-04-06 22:11:47
+6497	abba band country	2006-04-06 22:13:12
+6497	mama mia seventeen song	2006-04-06 22:14:36
+6497	mama mia only seventeen song	2006-04-06 22:14:55
+6497	mama mia dancing queen song	2006-04-06 22:15:13
+6497	funky town song	2006-04-06 22:31:52
+6497	men in speedos	2006-04-06 22:42:53
+6497	men in speedos	2006-04-06 22:43:02
+6497	men in speedos	2006-04-06 22:44:41
+6497	men in speedos	2006-04-06 22:45:11
+6497	studs in speedos	2006-04-06 22:46:03
+6497	men in speedos	2006-04-06 22:46:08
+6497	google	2006-04-06 22:47:10
+6497	abba band from	2006-04-06 22:53:46
+6497	abba band from	2006-04-06 22:54:23
+6497	google	2006-04-06 23:05:58
+6497	polish stars	2006-04-07 00:14:21
+6497	list of polish stars	2006-04-07 00:17:16
+6497	list of polish celebrities	2006-04-07 00:18:01
+6497	the pianist	2006-04-07 00:18:33
+6497	polish artists	2006-04-07 00:37:53
+6497	polish singers	2006-04-07 00:38:17
+6497	polish musicians	2006-04-07 00:42:17
+6497	pbs building big	2006-04-09 20:18:36
+6497	ocean clouds	2006-04-10 01:00:42
+6497	atomic bomb cloud	2006-04-10 01:01:22
+6497	wasteland horizon	2006-04-10 01:02:03
+6497	atomic bomb cloud	2006-04-10 01:12:45
+6497	atomic bomb cloud	2006-04-10 01:14:19
+6497	atomic bomb cloud	2006-04-10 01:15:22
+6497	atomic bomb cloud	2006-04-10 01:17:41
+6497	atomic bomb cloud	2006-04-10 01:23:27
+6497	atomic bomb cloud	2006-04-10 01:26:10
+6497	atomic bomb cloud	2006-04-10 01:27:16
+6497	atomic bomb cloud	2006-04-10 01:28:03
+6497	atomic bomb cloud	2006-04-10 01:29:26
+6497	atomic bomb cloud	2006-04-10 01:30:04
+6497	atomic bomb cloud	2006-04-10 01:31:37
+6497	atomic bomb cloud	2006-04-10 01:32:05
+6497	ocean clouds	2006-04-10 01:37:43
+6497	ocean clouds	2006-04-10 01:38:01
+6497	ocean clouds	2006-04-10 01:39:06
+6497	ocean clouds	2006-04-10 01:40:09
+6497	ocean clouds aircraft carrier	2006-04-10 01:40:59
+6497	ocean clouds carrier	2006-04-10 01:41:10
+6497	world war ii kiss nurse	2006-04-10 01:51:54
+6497	world war ii kiss nurse	2006-04-10 01:52:08
+6497	world war ii nurse	2006-04-10 01:52:16
+6497	holland	2006-04-10 02:08:15
+6497	holland map	2006-04-10 02:08:38
+6497	wasteland horizon	2006-04-10 02:39:20
+6497	wasteland	2006-04-10 02:39:39
+6497	wasteland	2006-04-10 02:40:04
+6497	wasteland	2006-04-10 02:41:04
+6497	speedo man	2006-04-10 02:42:10
+6497	speedo diver	2006-04-10 02:42:22
+6497	wasteland	2006-04-10 02:49:48
+6497	wasteland	2006-04-10 02:50:48
+6497	speedo diver	2006-04-10 02:50:59
+6497	speedo diver	2006-04-10 02:51:11
+6497	speedo diver	2006-04-10 03:02:56
+6497	speedo diver	2006-04-10 03:03:23
+6497	speedo diver	2006-04-10 03:04:07
+6497	speedo divers	2006-04-10 03:05:09
+6497	speedo divers	2006-04-10 03:06:39
+6497	speedo water polo	2006-04-10 03:07:08
+6497	speedo water polo	2006-04-10 03:08:52
+6497	speedo water polo	2006-04-10 03:09:00
+6497	speedo hawaii beach	2006-04-10 03:09:32
+6497	speedo hawaii	2006-04-10 03:09:39
+6497	speedo hawaii	2006-04-10 03:11:42
+6497	speedo beach	2006-04-10 03:12:12
+6497	speedo beach	2006-04-10 03:13:05
+6497	speedo beach	2006-04-10 03:15:57
+6497	speedo beach	2006-04-10 03:17:48
+6497	speedo beach	2006-04-10 03:18:56
+6497	speedo beach	2006-04-10 03:19:06
+6497	speedo beach	2006-04-10 03:20:03
+6497	speedo beach	2006-04-10 03:21:29
+6497	speedo beach	2006-04-10 03:23:27
+6497	speedo guys	2006-04-10 03:24:39
+6497	speedo guy	2006-04-10 03:24:45
+6497	speedo hunk	2006-04-10 03:24:55
+6497	speedo boys	2006-04-10 03:25:07
+6497	speedo boys	2006-04-10 03:29:42
+6497	speedo boys	2006-04-10 03:30:10
+6497	speedo boys	2006-04-10 03:31:44
+6497	speedo boys	2006-04-10 03:32:02
+6497	speedo boys	2006-04-10 03:33:49
+6497	speedo boys	2006-04-10 03:34:01
+6497	speedo boys	2006-04-10 03:35:00
+6497	speedo boys	2006-04-10 03:36:01
+6497	speedo swimmers	2006-04-10 03:37:18
+6497	speedo swimmers	2006-04-10 03:38:43
+6497	speedos swimmers	2006-04-10 03:39:04
+6497	speedos swimmers	2006-04-10 03:40:03
+6497	speedos swimmers	2006-04-10 03:43:47
+6497	speedos swimmers	2006-04-10 03:44:03
+6497	speedos divers	2006-04-10 03:44:25
+6497	speedos divers	2006-04-10 03:45:14
+6497	speedos divers	2006-04-10 03:48:49
+6497	speedos divers	2006-04-10 03:49:01
+6497	speedos tight	2006-04-10 03:50:14
+6497	speedos buff	2006-04-10 03:50:31
+6497	speedos hot	2006-04-10 03:50:43
+6497	speedos hot	2006-04-10 03:51:13
+6497	speedo boys	2006-04-10 04:08:52
+6497	speedos hot	2006-04-10 05:07:52
+6497	speedos divers	2006-04-10 05:08:06
+6497	speedos divers	2006-04-10 05:09:11
+6497	speedos divers	2006-04-10 05:11:28
+6497	speedos divers	2006-04-10 05:16:57
+6497	speedos divers	2006-04-10 05:17:05
+6497	speedos divers	2006-04-10 05:18:20
+6497	speedos	2006-04-14 00:20:32
+6497	speedos	2006-04-14 00:21:27
+6497	speedos	2006-04-14 00:22:06
+6497	speedos	2006-04-14 00:34:52
+6497	speedos	2006-04-14 00:40:20
+6497	speedos	2006-04-14 00:45:56
+6497	speedos	2006-04-14 00:50:02
+6497	speedos	2006-04-14 00:51:43
+6497	speedos	2006-04-14 00:52:07
+6497	speedos	2006-04-14 00:53:20
+6497	speedos	2006-04-14 00:57:22
+6497	speedos	2006-04-14 00:58:45
+6497	speedos	2006-04-14 00:59:51
+6497	speedos	2006-04-14 01:12:24
+6497	speedos	2006-04-14 01:13:28
+6497	speedos	2006-04-14 01:14:24
+6497	speedos	2006-04-14 01:15:56
+6497	speedos	2006-04-14 01:16:17
+6497	speedos	2006-04-14 01:17:05
+6497	speedos	2006-04-14 01:18:20
+6497	speedos	2006-04-14 01:19:37
+6497	speedos	2006-04-14 01:20:03
+6497	speedos	2006-04-14 01:21:01
+6497	speedos	2006-04-14 01:23:21
+6497	speedos	2006-04-14 01:24:05
+6497	speedos	2006-04-14 01:25:25
+6497	speedos	2006-04-14 01:28:25
+6497	speedos	2006-04-14 01:29:00
+6497	speedos	2006-04-14 01:30:06
+6497	speedo ironman	2006-04-14 01:42:56
+6497	speedos ironman	2006-04-14 01:43:05
+6497	speedo ironman	2006-04-14 01:43:18
+6497	speedo ironman	2006-04-14 01:47:33
+6497	speedos ironman	2006-04-14 01:47:50
+6497	speedos ironman	2006-04-14 01:48:00
+6497	speedos ironman	2006-04-14 02:27:45
+6497	speedos ironman	2006-04-14 02:28:10
+6497	speedos ironman	2006-04-14 02:29:06
+6497	speedos bike	2006-04-14 02:30:50
+6497	speedos bike	2006-04-14 02:31:03
+6497	speedos bicycle	2006-04-14 02:31:58
+6497	speedos bicycle	2006-04-14 02:32:06
+6497	speedos bicycle	2006-04-14 02:33:35
+6497	speedos muscle fitness	2006-04-14 02:33:50
+6497	speedo muscle fitness	2006-04-14 02:33:58
+6497	speedos	2006-04-14 02:34:43
+6497	muscle fitness	2006-04-14 02:34:53
+6497	speedos	2006-04-14 02:34:57
+6497	speedos	2006-04-14 02:35:47
+6497	muscle fitness speedo	2006-04-14 02:36:11
+6497	muscle speedo	2006-04-14 02:36:20
+6497	muscle speedo	2006-04-14 02:49:38
+6497	muscle speedo	2006-04-14 02:51:11
+6497	muscle speedo	2006-04-14 02:52:33
+6497	muscle fitness speedo	2006-04-14 02:52:41
+6497	muscle fitness	2006-04-14 02:52:47
+6497	speedos	2006-04-14 02:53:03
+6497	speedos	2006-04-14 02:54:14
+6497	speedos	2006-04-14 02:55:29
+6497	speedos	2006-04-14 02:56:22
+6497	speedos	2006-04-14 02:57:08
+6497	speedos	2006-04-14 02:58:17
+6497	speedos	2006-04-14 02:59:07
+6497	speedos	2006-04-14 03:00:24
+6497	speedos	2006-04-14 03:01:07
+6497	speedos bicycle	2006-04-14 04:49:11
+6497	speedos bicycle	2006-04-14 04:50:11
+6497	speedos bicycle	2006-04-14 04:51:03
+6497	speedos bicycle	2006-04-14 04:53:39
+6497	speedos bicycle	2006-04-14 04:54:25
+6497	speedos bicycle	2006-04-14 04:55:22
+6497	speedos bicycle	2006-04-14 04:56:48
+6497	speedos bicycle	2006-04-14 04:57:14
+6497	muscle speedo	2006-04-14 04:57:32
+6497	muscle speedo	2006-04-14 04:58:00
+6497	muscle speedo	2006-04-14 04:59:28
+6497	muscle speedo	2006-04-14 05:55:03
+6497	muscular speedo	2006-04-14 05:55:53
+6497	muscular speedo	2006-04-14 05:56:05
+6497	ironman speedo	2006-04-14 05:56:42
+6497	ironman speedo	2006-04-14 05:57:05
+6497	speedos	2006-04-14 05:57:51
+6497	speedos	2006-04-14 05:58:12
+6497	speedos	2006-04-14 05:59:02
+6497	speedos	2006-04-14 06:00:24
+6497	speedos	2006-04-14 06:02:15
+6497	speedos	2006-04-14 06:03:21
+6497	speedos	2006-04-14 06:04:30
+6497	speedos	2006-04-14 06:05:01
+6497	speedos	2006-04-14 06:06:02
+6497	speedos	2006-04-14 06:11:41
+6497	speedos	2006-04-14 06:12:14
+6497	speedos	2006-04-14 06:13:15

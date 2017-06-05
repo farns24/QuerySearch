@@ -25,62 +25,71 @@ public class LogParser implements ILogParser {
 		StringBuffer str = new StringBuffer();
 		String nextLine = "";
 		while ((nextLine = in.readLine()) != null)
-			str.append(nextLine+"\n");
-		in.close();
-		//save it to a bin tree.
-		StringTokenizer st = new StringTokenizer(str.toString());//create a string
-		
-		LogEntry entry = new LogEntry();
-		boolean dateFound = false;
-		String fullDate = "";
-		
-		while(st.hasMoreTokens()){
-			nextLine = st.nextToken();
-			if (nextLine.matches("[0-9]*"))
-			{
-
-				entry = new LogEntry();
-				entry.setId(Integer.valueOf(nextLine));
-			}
-			/*
-			 * Stopword removal. While processing a user query Q, any leading stopwords of Q are excluded
-				from consideration, whereas non-leading stopwords should be retained and considered for query
-				suggestions. For example, “A” in the query “A workshop” is ignored and only “workshop” will
-				be considered in making suggestions. (See the Stopword List of Project 1.)
-			 */
-			else if(nextLine.matches("[a-zA-Z'.]*"))
-			{
-				if (!stops.contains(nextLine))
-				entry.addWordToQuery(nextLine);
-				
-			}
-			else
-			{
-				fullDate = fullDate.concat(nextLine);
-				if (dateFound)
-				{
-					try {
-						entry.setTime(df.parse(fullDate));
-					} catch (ParseException e) {
-						e.printStackTrace();
-					}
-					fullDate ="";
-					dateFound = false;
-					//contents.add(entry);
-					SeachFacade.getInstance().addToTrie(entry.getQuery());
-					
-					
-				}
-				else
-				{
-					fullDate = fullDate.concat(" ");
-					dateFound = true;
-				}
+		{
+			 if (nextLine.equals("AnonID\tQuery\tQueryTime"))
+					 continue;
+			 //LogEntry entry = new LogEntry();
+			 String[] tokens = nextLine.split("\t");
+			 
+			 SeachFacade.getInstance().addToTrie(tokens[1]);
+//				
+			//nextLine = st.nextToken();
+//			if (nextLine.matches("[0-9]*"))
+//			{
+//
+//				entry = new LogEntry();
+//				entry.setId(Integer.valueOf(nextLine));
+//			}
+//			/*
+//			 * Stopword removal. While processing a user query Q, any leading stopwords of Q are excluded
+//				from consideration, whereas non-leading stopwords should be retained and considered for query
+//				suggestions. For example, “A” in the query “A workshop” is ignored and only “workshop” will
+//				be considered in making suggestions. (See the Stopword List of Project 1.)
+//			 */
+//			else if(nextLine.matches("[a-zA-Z'.]*"))
+//			{
+//				if (!stops.contains(nextLine))
+//				entry.addWordToQuery(nextLine);
+//				
+//			}
+//			else
+//			{
+//				fullDate = fullDate.concat(nextLine);
+//				if (dateFound)
+//				{
+//					try {
+//						entry.setTime(df.parse(fullDate));
+//					} catch (ParseException e) {
+//						e.printStackTrace();
+//					}
+//					fullDate ="";
+//					dateFound = false;
+//					//contents.add(entry);
+//					SeachFacade.getInstance().addToTrie(entry.getQuery());
+//					
+//					
+//				}
+//				else
+//				{
+//					fullDate = fullDate.concat(" ");
+//					dateFound = true;
+//				}
 				
 			}
 				//validWords.add(nextLine.trim());
-		}
-	} catch (IOException e) {
+		
+//		}
+			//str.append(nextLine+"\n");
+		in.close();
+		//save it to a bin tree.
+//		StringTokenizer st = new StringTokenizer(str.toString());//create a string
+//		
+//		LogEntry entry = new LogEntry();
+//		boolean dateFound = false;
+//		String fullDate = "";
+//		
+//		while(st.hasMoreTokens()){}
+	} catch (Exception e) {
 		e.printStackTrace();
 	}
 	return contents;}

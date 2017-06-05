@@ -16,4 +16,6 @@ public interface ITrie {
 	 * @return
 	 */
 	public Collection<String> getSugestions(String input);
+	
+	public int getCount(String sq);
 }
