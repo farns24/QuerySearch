@@ -60,9 +60,12 @@ private JLabel suggestions = new JLabel("<html>1<br>2</html>");
 
   public static void main(String[] args) {
 	  
-	  LogParser parser = new LogParser();
-	  parser.gatherLogs("/data/TestFile.txt"); 
-	  
+    LogParser parser = new LogParser();
+	parser.gatherLogs("/data/Clean-Data-01.txt");
+	parser.gatherLogs("/data/Clean-Data-02.txt");
+	parser.gatherLogs("/data/Clean-Data-03.txt");
+	parser.gatherLogs("/data/Clean-Data-04.txt");
+	parser.gatherLogs("/data/Clean-Data-05.txt");
 	  
 	  
     String[] labels = { "Query" };

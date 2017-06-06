@@ -16,14 +16,14 @@ public static double wcf(String w1, String w2){
 
 		String myURL = "http://peacock.cs.byu.edu/CS453Proj2/?word1="+w1+"&word2="+w2;
 
-		System.out.println("Fetching content: "+myURL);
+		//System.out.println("Fetching content: "+myURL);
 
 		Document pageDoc = Jsoup.connect(myURL).get();
 		String htmlContent = pageDoc.html();		
 		Document contentDoc = Jsoup.parse(htmlContent);
 		String contentVal = contentDoc.body().text();
 		
-		System.out.println(contentVal);
+		//System.out.println(contentVal);
 
 		Double val= Double.parseDouble(contentVal);
 

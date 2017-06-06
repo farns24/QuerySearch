@@ -131,9 +131,15 @@ public class TrieNode implements ITrieNode {
 		{
 			return ((CompleteNode)this).getCount();
 		}
+		else if (sq.isEmpty())
+		{
+			return 0;
+		}
 		else
 		{
 			String rest = sq.substring(1);
+			if (rest.isEmpty())
+				return 0;
 			char nextLetter = rest.charAt(0);
 			TrieNode child = null;
 			if (!this.hasChild(nextLetter))

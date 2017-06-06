@@ -19,10 +19,12 @@ public class LogParserTests {
 	@Test
 	public void testload() {
 		LogParser parser = new LogParser();
-		parser.gatherLogs("/data/TestFile.txt");
-		//parser.gatherLogs("/data/Clean-Data-02.txt");
-//		//parser.gatherLogs("/data/Clean-Data-04.txt");
-		//parser.gatherLogs("/data/Clean-Data-05.txt");
+		//parser.gatherLogs("/data/TestFile.txt");
+		parser.gatherLogs("/data/Clean-Data-01.txt");
+		parser.gatherLogs("/data/Clean-Data-02.txt");
+		parser.gatherLogs("/data/Clean-Data-03.txt");
+		parser.gatherLogs("/data/Clean-Data-04.txt");
+		parser.gatherLogs("/data/Clean-Data-05.txt");
 		System.out.println("Loaded everything");
 		Collection<String> suggestions = SeachFacade.getInstance().getSuggestions("car");
 		for(String sugest: suggestions)
